@@ -62,7 +62,23 @@
 
 <a id="2mao-speed-test"></a>
 
-## 二猫云(2mao)VPN的 IEPL、流媒体解锁与高峰测速
+## 二猫云(2mao)VPN的 IEPL、流媒体解锁与测速记录
+
+### 历史截图的文字结果
+
+来源为本页已有的 FFQ.LA / MiaoKo 测速截图。图中时间为 **2026-05-08 10:21:22（CST）**，环境标注华东上海 Azure、10Gbps，工具为喵速 4.3.8-Meta，10 线程；不代表家庭宽带或晚高峰表现。
+
+下表摘录部分节点，保留原图的速度单位，未换算为 Mbps；完整记录见下方原图。
+
+| 节点（截图摘录） | TLS RTT | HTTPS 延迟 | 平均速度（原图单位） | 最高速度（原图单位） | 其他记录 |
+| --- | --- | --- | --- | --- | --- |
+| 香港09 | 61ms | 213ms | 21.13MB | 27.66MB | UDP：FullCone |
+| 台湾03 | 62ms | 307ms | 34.99MB | 42.58MB | UDP：FullCone |
+| 日本01 | 90ms | 397ms | 71.51MB | 81.52MB | UDP：Unknown |
+| 新加坡01 | 83ms | 481ms | 39.24MB | 63.47MB | UDP：FullCone |
+| 美国01 | 207ms | 859ms | 59.38MB | 82.92MB | UDP：FullCone |
+
+Unknown 表示该项检测未确定。各节点的单次 HTTPS 延迟与吞吐量不同，不能只用速度最高的一行推断全线路表现；当前体验应在自己的网络复测。
 
 ![二猫云(2mao) 三网拓扑](https://i.eoht.net/airport/2mao_analyze.webp)
 
