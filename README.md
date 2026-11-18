@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/2mao) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-二猫云（2mao）主打 IEPL 机场订阅，常见叫法包括“二猫云 VPN”“二猫云梯子”和“二猫云机场”。它提供原生 IP 代理节点并兼容常用客户端；页面的 ¥89 年付小包适合低流量用户，需要按月付款或更多流量时，再比较其他档位的线路和使用场景。
-
 > [!NOTE]
 > **30 秒看懂二猫云**
 >
-> - **最低门槛**：60GB/月年付小包 ¥89；另有 ¥13 的 60GB 月付小包。
-> - **核心特点**：主打全 IEPL、原生 IP 与全天客服。
-> - **优惠限制**：8 折码不适用于年付小包，其他套餐以结算页显示为准。
+> [访问官网](https://eoht.net/serve/airport/2mao) · <a href="#2mao-vpn-plans">查看套餐与优惠</a> · <a href="#2mao-speed-test">查看测速与解锁</a> · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> <a href="#2mao-vpn-plans">查看套餐与优惠</a> · <a href="#2mao-speed-test">查看测速与解锁</a> · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：年付小包 ¥89/年、60GB/月；另有 ¥13/月、60GB 的月付小包，可按付款周期选择。
+> - **服务方式**：主打全 IEPL、原生 IP 与全天客服，订阅兼容常用客户端；更多档位与使用场景见套餐和测速记录。
+> - **优惠限制**：8 折码**不适用于年付小包**，其他套餐以结算页显示为准；先核对所选套餐，再确认优惠是否生效。
 >
+
+二猫云（2mao）主打 IEPL 机场订阅，常见叫法包括“二猫云 VPN”“二猫云梯子”和“二猫云机场”。它提供原生 IP 代理节点并兼容常用客户端；页面的 ¥89 年付小包适合低流量用户，需要按月付款或更多流量时，再比较其他档位的线路和使用场景。
 
 <a id="2mao-official-website"></a>
 
